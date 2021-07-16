@@ -1,2 +1,2 @@
-# test1
-깃허브 연습용 repositoty
+# Comento
+코멘토 깃 hub
